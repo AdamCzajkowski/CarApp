@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Honda</string>
+    <string name="topText">Aplikacja pomocnicza do Hondy Fit</string>
+    <string name="button2">Odejmij wartość</string>
+    <string name="button1">Dodaj wartość</string>
+    <string name="value">0</string>
+    <string name="counterName">counter</string>
+
+</resources>
